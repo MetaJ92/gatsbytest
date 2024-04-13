@@ -9,7 +9,8 @@ const Homepage = () => {
     <p>Meowdy!</p>
     <StaticImage
         alt="Lizard"
-        src="C:\Users\Spiri\Desktop\SchoolWork\CSC 496\gatsbytest\src\images\Lizard.JPG"
+        //src="C:\Users\Spiri\Desktop\SchoolWork\CSC 496\gatsbytest\src\images\Lizard.JPG"
+        src="Lizard.JPG"
       />
   </Layout>
   );
