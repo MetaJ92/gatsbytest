@@ -5,7 +5,7 @@ import Seo from '../components/seo'
 
 const Homepage = () => {
   return (
-  <Layout pageTitle="Jake's Home Page">
+  <Layout pageTitle="Jake's Home Page!">
     <p>Meowdy!</p>
     <StaticImage
         alt="Lizard"
