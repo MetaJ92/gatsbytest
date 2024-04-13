@@ -5,12 +5,13 @@ import Seo from '../components/seo'
 
 const Homepage = () => {
   return (
-  <Layout pageTitle="Jake's Home Page!">
+  <Layout pageTitle="Jake's Home Page!!">
     <p>Meowdy!</p>
     <StaticImage
         alt="Lizard"
         //src="C:\Users\Spiri\Desktop\SchoolWork\CSC 496\gatsbytest\src\images\Lizard.JPG"
-        src="Lizard.JPG"
+        //src="Lizard.JPG"
+        src="src\images\Lizard.JPG"
       />
   </Layout>
   );
