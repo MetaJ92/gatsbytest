@@ -10,8 +10,7 @@ const Homepage = () => {
     <StaticImage
         alt="Lizard"
         //src="C:\Users\Spiri\Desktop\SchoolWork\CSC 496\gatsbytest\src\images\Lizard.JPG"
-        //src="Lizard.JPG"
-        src="src\images\Lizard.JPG"
+        src="https://raw.githubusercontent.com/MetaJ92/gatsbytest/main/src/images/Lizard.JPG"
       />
   </Layout>
   );
