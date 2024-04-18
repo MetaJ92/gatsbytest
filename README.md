@@ -13,7 +13,6 @@ This repo contains a website project that hosts pages that include recipes for d
 
 The contents of the recipe pages and articles are stored on a database. To obtain these page's contents, Gatsby connects to Drupal and from there a graphQL query is used to loop over the contents of each page into object nodes. At this point, a template file is utilized to display this queried content for your viewing pleasure. 
 
-
 <img src="https://raw.githubusercontent.com/MetaJ92/gatsbytest/main/src/images/RecipePageEX.JPG" alt="Example of the Recipe template page in action"/>
 
 <img src="https://raw.githubusercontent.com/MetaJ92/gatsbytest/main/src/images/ArticlePageEX.JPG" alt="Example of the Article template page in action"/>
